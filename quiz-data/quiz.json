@@ -1,0 +1,19 @@
+{
+    "question" : [
+        {
+        "questionText": "who is the owner of tesla"
+        },
+        {
+         "questionText": "How to import useState in react"
+        },
+        {
+         "questionText": "what is the correct thing to add to a useEffect to stop it from running each time a function is clicked"
+        },
+        {
+         "questionText": "whats the correct way to add dependence in useEffect"
+        },
+        {
+         "questionText": "whats the correct way to create react app"
+        }
+    ]
+}
